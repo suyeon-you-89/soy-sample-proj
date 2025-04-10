@@ -14,7 +14,7 @@
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "soy-admin-ui": "file:../soy-admin-ui"
+    "soy-sample-ui": "file:../soy-sample-ui"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
