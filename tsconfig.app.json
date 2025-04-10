@@ -23,7 +23,7 @@
     "noUncheckedSideEffectImports": true,
     "baseUrl": ".",
     "paths": {
-      "soy-admin-ui": ["../soy-admin-ui/src/index.ts"] // 또는 빌드된 dist 경로
+      "soy-sample-ui": ["../soy-sample-ui/src/index.ts"] // 또는 빌드된 dist 경로
     }
   },
   "include": ["src"]
